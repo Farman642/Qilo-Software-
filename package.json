@@ -1,0 +1,16 @@
+{
+  "name": "qilo-software-",
+  "version": "1.0.0",
+  "description": "Backend+AI Engineer No UI required, just show the working of giving input and its corresponding output   Q1) A simple video demonstrating Get, Post, Delete REST api calls from postman/any other source to a Fastapi backend. Showing calls being made and results from those calls",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
